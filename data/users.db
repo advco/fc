@@ -1,0 +1,3 @@
+{"email":"feathers@example.com","password":"$2a$13$nZCKlKByYCZNFCLHMsyZnOWFT7kiJPpfBVdB7X6odHHeS1FhcdXze","_id":"16L71qmW6qct1e71"}
+{"email":"farzan@advco.com","password":"$2a$13$4JDXKMdHFI7ISX1MJ8STxORZqyBm1C9QpJ52q33aWrpin9hoeoPjC","_id":"sN6eqh4k8q5cNjKX"}
+{"$$indexCreated":{"fieldName":"email","unique":true,"sparse":false}}
